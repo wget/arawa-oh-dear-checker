@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ohdearapp/health-check-results": "^1.0"
+    }
+}
